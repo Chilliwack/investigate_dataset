@@ -14,4 +14,4 @@ This analysis uses data from Gapminder World which has collected a lot of inform
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-Please see the [notebook](https://github.com/Chilliwack/investigate_dataset) for further details: https://github.com/Chilliwack/investigate_dataset.ipynb
+Please see the [notebook](https://github.com/Chilliwack/investigate_dataset/blob/master/investigate_dataset.ipynb) for further details: https://github.com/Chilliwack/investigate_dataset/blob/master/investigate_dataset.ipynb
